@@ -7,7 +7,7 @@ function Reference() {
       <ul>
         <li>
           All the documentation in this page is taken from
-          <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">
+          <a style={{color:"darkcyan"}} href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">
             {" "}
             MDN
           </a>

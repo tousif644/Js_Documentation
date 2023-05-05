@@ -3,7 +3,7 @@ function Navbar() {
   return (
     <div>
       <nav className="navbar">
-        <h1>JS Documentation 📃📃</h1>
+        <h1>JS Documentation</h1>
         <ul>
           <li>
             <a href="#introduction">Introduction</a>
